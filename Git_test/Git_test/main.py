@@ -4,7 +4,7 @@ import second_branch
 def main():
 	master_branch.simple()
 	second_branch.simple()
-	print('новые изменения в мастере')
+	print('пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ')
 	
 
 main()
