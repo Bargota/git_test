@@ -1,8 +1,10 @@
 import master_branch
+import second_branch
 
 def main():
 	master_branch.simple()
-	print('РЅРѕРІС‹Рµ РёР·РјРµРЅРµРЅРёСЏ РІ РјР°СЃС‚РµСЂРµ')
+	second_branch.simple()
+	print('новые изменения в мастере')
 	
 
 main()
